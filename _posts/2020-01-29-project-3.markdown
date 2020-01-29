@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2020-01-29
+img: Project3.png
+alt: image-alt
+project-date: January 2020
+category: Machine Learning 
+description: Resources of the talks and sessions taken at different events. Find the github repo <a href="https://github.com/Anpr1211/Talks-and-Sessions">here</a>.
+
+---
