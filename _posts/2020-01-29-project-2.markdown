@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2020-01-29
+img: Project2.png
+alt: image-alt
+project-date: December 2020 
+category: Statistics and Machine Learning
+description: The dissertation project to be submitted in the final semester of college. This is a comparative study between classical methods used on time series data like ARIMA, exponential smoothing, etc. and ML methods like Recurrent Neural Networks. Find the github repo <a href="https://github.com/Anpr1211/Dissertation">here</a>.
+
+---
