@@ -2,6 +2,8 @@
 title: Ankita Prakash
 email: ankita.prakash1998@gmail.com
 url: https://Anpr1211.github.io
+plugins:
+  - jekyll-sitemap
 description: "Portfolio of Ankita Prakash"
 keywords: "Portfolio, Resume"
 skills: "Data Scientist - Analyst - Statistician"
